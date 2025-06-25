@@ -1,12 +1,50 @@
-# React + Vite
+<h1>🎨 HobbyHub — A Local Hobby Group Organizer</h1>
+HobbyHub is a vibrant platform for hobby enthusiasts to discover, create, and manage local interest-based groups—whether it's a book club, painting circle, gaming crew, or cooking collective. Join your community or start a new one—it’s your social gateway to connection through shared passions!
+<h1>🔗 Live Site</h1>
+https://hobby-hub-a5b25.web.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1>🚀 Features</h1>
+🔐 Authentication
 
-Currently, two official plugins are available:
+<li>Email & Google sign-in using Firebase Auth</li>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👥 Group Management
 
-## Expanding the ESLint configuration
+Create and join hobby groups (Drawing, Gaming, Cooking, and more)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Join button disabled past the group’s start date
+
+📋 Private Routes
+
+User must be logged in to access protected pages
+
+🎨 Responsive, Unique Design
+
+Smooth interactions with transforms, hover states, transitions, and blur effects
+
+Built-in Light/Dark theme toggle
+
+🎞️ Animated UI
+
+Engaging reveals with React Awesome Reveal
+
+Typewriter effects from React Typewriter
+
+✅ Interactive Feedback
+
+Toast notifications with React Hot Toast
+
+SweetAlert2 dialogs for confirmations and alerts
+
+🧠 Smart Data Display
+
+“My Groups” shows only those created by the logged-in user
+
+🔄 CRUD Functionality
+  - Update and delete groups with live UI feedback and confirmation modals
+
+🌐 Modern Hosting
+
+Client side on Netlify
+
+Backend on Vercel
