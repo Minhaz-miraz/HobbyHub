@@ -4,25 +4,25 @@ HobbyHub is a vibrant platform for hobby enthusiasts to discover, create, and ma
 https://hobby-hub-a5b25.web.app/
 
 <h1>🚀 Features</h1>
-🔐 Authentication
+<li>🔐 Authentication</li>
 
-<li>Email & Google sign-in using Firebase Auth</li>
+-Email & Google sign-in using Firebase Auth
 
-👥 Group Management
+<li>👥 Group Management</li>
 
-Create and join hobby groups (Drawing, Gaming, Cooking, and more)
+-Create and join hobby groups (Drawing, Gaming, Cooking, and more)
 
 Join button disabled past the group’s start date
 
-📋 Private Routes
+<li>📋 Private Routes</li>
 
-User must be logged in to access protected pages
+-User must be logged in to access protected pages
 
-🎨 Responsive, Unique Design
+<li>🎨 Responsive, Unique Design</li>
 
-Smooth interactions with transforms, hover states, transitions, and blur effects
+-Smooth interactions with transforms, hover states, transitions, and blur effects
 
-Built-in Light/Dark theme toggle
+<li>Built-in Light/Dark theme toggle</li>
 
 🎞️ Animated UI
 
